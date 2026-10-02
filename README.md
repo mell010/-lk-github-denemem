@@ -5,4 +5,4 @@ Github öğrenme yolculuğumun ilk adımı
 - Repo Oluşturmak
 - README Dosyası Hazırlamak
 - Commit Atmak
--
+- Dal(Branch Oluşturmak) 
